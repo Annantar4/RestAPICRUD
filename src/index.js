@@ -18,6 +18,7 @@ app.use('/user_courses',user_coursesRoutes)
 app.use('/courses',course)
 app.use('/course_categories',course_category)
 
+console.log("annataganteng")
 
 
 app.listen(port,()=>{
